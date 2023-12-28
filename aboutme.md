@@ -7,8 +7,8 @@ title: About me
 ## My current & recent interests:
 - reducing AI risk by making AI prove its outputs certain properties
   - this is what I spend most of my time on at [Atlas Computing](https://atlascomputing.org/)
-- revolutionary coordination systems
-  - This was the focus of Network Goods, the Venture Studio I ran at Protocol Labs
+- "revolutionary coordination systems"
+  - This was the focus of Network Goods, the venture studio I ran at Protocol Labs
   - We thought about the overlap of mechanism design, social choice theory, and metascience
 
 ## Prior work
@@ -56,21 +56,21 @@ NG summary + bogota open: https://www.youtube.com/watch?v=RUq92g1Lpbc
 - My formative college years included a BS and MS in Materials Science and Engineering at Stanford, lots of courses in math, CS, and philosophy, and perhaps a surprising amount of set design and construction.
 
 ### Academic writings
-- See my [Google Scholar profile](https://scholar.google.com/citations?user=3JFKiuAAAAAJ) for a fairly comprehensive list
+See my [Google Scholar profile](https://scholar.google.com/citations?user=3JFKiuAAAAAJ) for a fairly comprehensive list
 
  
 ### Little things
 Real-world backlinks from people or insitutions I deeply respect (roughly chronologically)
 - I've gotten multiple shout-outs from 3blue1brown (am I a hand model?)
 - I've been thanked in multiple pieces by Michael Nielsen
-- I had a 1-on-1 90-minute fireside chat with Vitalik, who has publicly name-checked two projects started on my team (hypercerts and Open Agency Architecture)
+- Vitalik has publicly name-checked two projects started on my team (hypercerts and Open Agency Architecture)
 - I've organized [a metascience workshop](https://www.santafe.edu/events/accelerating-science-risks-incentives-and-rewards) at the Santa Fe Institute
 - Andrew Critch and davidad jointly suggested I start what is now Atlas Computing
 
 
-### contact
+### Contact
 If you want to talk about something related to Atlas Computing, use [the contact link](https://forms.gle/QApy1MRqqfNcprag6) or [email](mailto:hello@atlascomputing.org) on the atlas website (I'm on the other end of it).
 
-If you want to talk about something NOT related to my current job, email me at \[first name\].\[second half of last name\]@gmail.com
+If you want to talk about something NOT related to my current job, email me at \[first name\].\[second half of last name\]@gmail.com but note that it might take me a while to respond.
 
 I'm also probably more responsive to LinkedIn messages and twitter DMs than email thanks to [beeper](http://beeper.com/), but I tend not to accept LinkedIn connections that don't have a message unless we've met.
