@@ -4,16 +4,16 @@ title: About me
 ---
 
 
-## My current & recent interests:
+# My current & recent interests:
 - reducing AI risk by making AI prove its outputs certain properties
   - this is what I spend most of my time on at [Atlas Computing](https://atlascomputing.org/)
 - "revolutionary coordination systems"
   - This was the focus of Network Goods, the venture studio I ran at Protocol Labs
   - We thought about the overlap of mechanism design, social choice theory, and metascience
 
-## Prior work
+# Prior work at Protocol Labs
 ### What was Network Goods:
-- I created and led a team ranging between 10 and 25 people (including contractors) with a budget of ~$7M/yr
+- I created and led a team ranging between 10 and 25 people (including contractors) with a budget of up to ~$7M/yr
 - We started and spun out
     - [hypercerts](https://hypercerts.org/)
     - [Funding the Commons](https://fundingthecommons.io/)(conference series)
@@ -32,15 +32,14 @@ I started the long-term research and metascience arm of Protocol Labs, which inc
 
 ### Selected talks
 - [Oct 13, 2022 – DevCon 6 – Hypercerts for regenerative cryptoeconomics (30 min)](https://www.youtube.com/watch?v=YpIQoq_bfu8)
-  - In which I present [Hypercerts](https://hypercerts.org/) and motivate retrospective funding for public good
-  - [slides](https://docs.google.com/presentation/d/1pV_zvJ3UcLFWj29nrEXdMS1Dt3RLmHzgcGgOAqt7_c0/)
+  - In which I present [Hypercerts](https://hypercerts.org/) and motivate retrospective funding for public good ([slides](https://docs.google.com/presentation/d/1pV_zvJ3UcLFWj29nrEXdMS1Dt3RLmHzgcGgOAqt7_c0/))
 - [Feb 12, 2022 – DeSci at Eth Denver – How to self-assemble an atomic bomb project (15 min)](https://youtu.be/s3t4NxP-pFk?t=3516)
-  - In which I provide context on the field of metascience to people from crypto and the Decentralized Science (DeSci) movement. 
-  - [slides](https://docs.google.com/presentation/d/1N65MNlIoH_MZLdlmn9dVhf9nmiyPbDZ6/edit#slide=id.p1)
+  - In which I provide context on the field of metascience to people from crypto and the Decentralized Science (DeSci) movement. ([slides](https://docs.google.com/presentation/d/1N65MNlIoH_MZLdlmn9dVhf9nmiyPbDZ6/edit#slide=id.p1))
 - [June 23, 2023 – Summer of Protocols – Putting protocols into practice](https://www.youtube.com/watch?v=i--HcD5Zx-A)
+  - In which I talk about Filecoin (and FIL+), the projects of the Network Goods, and the open agency architecture, not as products, but as protocols.
   - [slides](https://docs.google.com/presentation/d/1eX0d3uCb9czDW7r0lf5xPGcYXebfiRL-TAC9cpXGvcY)
 - Nov 11, 2022 – Santa Fe Institute – Emergently Engineered Economic Experiments [transcript](https://www.santafe.edu/transcripts/950)
-  - [slides](https://docs.google.com/presentation/d/1ESHg5TZhVzUL7E-9kFf22d7HCQJgLmsOLVsJC71iCCg) 
+  - In which I present Filecoin (and FIL+), SourceCred, and Hypercerts as emergent economic experiments([slides](https://docs.google.com/presentation/d/1ESHg5TZhVzUL7E-9kFf22d7HCQJgLmsOLVsJC71iCCg))
 
 {::comment}
 maybe also include
@@ -51,12 +50,15 @@ FTC impact evaluators presentation: https://www.youtube.com/watch?v=dpLtrugjfMc
 NG summary + bogota open: https://www.youtube.com/watch?v=RUq92g1Lpbc
 {:/comment}
 
-## Education
+# Education
 - In 2017, I completed my PhD at Caltech as Andrei Faraon's first grad student, where I was working on a scalable optical quantum memory ([thesis](https://thesis.library.caltech.edu/10096/)).
 - My formative college years included a BS and MS in Materials Science and Engineering at Stanford, lots of courses in math, CS, and philosophy, and perhaps a surprising amount of set design and construction.
 
-### Academic writings
-See my [Google Scholar profile](https://scholar.google.com/citations?user=3JFKiuAAAAAJ) for a fairly comprehensive list
+### Published writings
+- See my [Google Scholar profile](https://scholar.google.com/citations?user=3JFKiuAAAAAJ) for a fairly comprehensive list of my academic writings.
+- I also frequently reference [this blogpost](https://research.protocol.ai/blog/2020/sourcecred-an-introduction-to-calculating-cred-and-grain/) I wrote about [the SourceCred project](https://sourcecred.io/)'s method of providing algorithmic impact measurment of open source software in an effort to create permissionless employment.
+- I think [this blogpost](https://research.protocol.ai/blog/2023/discourse-graphs-and-the-future-of-science/) is still a pretty comprehensive summary of why we need Discourse Graphs as a micropublication standard for immediately and continuously open science.
+- And I feel like [this list of questions](https://quantumfrontiers.com/2014/05/25/top-10-questions-for-your-potential-phd-advisergroup/) (for new grad students picking a group) have stood up pretty well since I was a grad student.
 
  
 ### Little things
