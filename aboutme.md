@@ -13,8 +13,8 @@ title: About me
 
 # Prior work at Protocol Labs
 ### What was Network Goods:
-- I created and led a team ranging between 10 and 25 people (including contractors) with a budget of up to ~$7M/yr
-- We started and spun out
+- I created and led a team ranging between 15 and 25 people (including contractors) with a budget of up to ~$7M/yr
+- In 2 years, we started and spun out
     - [hypercerts](https://hypercerts.org/)
     - [Funding the Commons](https://fundingthecommons.io/)(conference series)
     - [The Open Impact Foundation](https://openimpact.foundation/)
@@ -24,10 +24,10 @@ title: About me
 - We supported davidad during the initial proposal of the [Open Agency Architecture](https://www.lesswrong.com/posts/pKSmEkSQJsCSTK6nH/an-open-agency-architecture-for-safe-transformative-ai)
 
 ### What was PL Research:
-I started the long-term research and metascience arm of Protocol Labs, which included 
-  - the [PL Research RFP program](https://protocol.ai/blog/ann-research-rfp/), advancing the cutting edge of networking, distributed systems, and cryptography research with $5M in grants to academic researchers.
-  - a team of independent researcher nicknamed [the AbstractionLab](https://grants.protocol.ai/groups/abstractionlab/)
-  - support for Nadia Eghbal's research and creation of [Working in Public](https://press.stripe.com/working-in-public)
+I started the long-term research and metascience arm of Protocol Labs and ran it for ~5 years, which included 
+  - creating the [PL Research RFP program](https://protocol.ai/blog/ann-research-rfp/), advancing the cutting edge of networking, distributed systems, and cryptography research with $5M in grants to academic researchers. Also, hiring and managing a 3-person team to run the program.
+  - leading a team of up to 5 independent researchers nicknamed [the AbstractionLab](https://grants.protocol.ai/groups/abstractionlab/)
+  - supporting Nadia Eghbal's research and creation of [Working in Public](https://press.stripe.com/working-in-public)
 
 
 ### Selected talks
