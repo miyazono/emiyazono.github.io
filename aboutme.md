@@ -13,13 +13,13 @@ title: About me
 
 # Prior work at Protocol Labs
 ### What was Network Goods:
-- I created and led a team ranging between 15 and 25 people (including contractors) with a budget of up to ~$7M/yr
+- I created and led a team (of at one point 25 people including contractors) with a budget of up to ~$7M/yr
 - In 2 years, we started and spun out
-    - [hypercerts](https://hypercerts.org/)
-    - [Funding the Commons](https://fundingthecommons.io/)(conference series)
-    - [The Open Impact Foundation](https://openimpact.foundation/)
-    - [gov4git](https://gov4git.org/)
-    - [Open Source Observer](https://www.opensource.observer/)
+    - [hypercerts](https://hypercerts.org/) (non-profit)
+    - [Funding the Commons](https://fundingthecommons.io/) (PBC, conference series)
+    - [The Open Impact Foundation](https://openimpact.foundation/) (for-profit)
+    - [gov4git](https://gov4git.org/) (non-profit)
+    - [Open Source Observer](https://www.opensource.observer/) (for-profit)
 - We accelerated [Discourse Graphs](https://discoursegraphs.ai/)
 - We supported davidad during the initial proposal of the [Open Agency Architecture](https://www.lesswrong.com/posts/pKSmEkSQJsCSTK6nH/an-open-agency-architecture-for-safe-transformative-ai)
 
